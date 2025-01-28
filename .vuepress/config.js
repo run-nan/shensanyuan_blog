@@ -3,8 +3,7 @@ module.exports = {
   title: "三元博客",
   description: "三元同学的博客",
   dest: "public",
-  // "base": '/my_blog/',
-  base: "/",
+  base: "/shensanyuan_blog/",
   head: [
     [
       "link",
